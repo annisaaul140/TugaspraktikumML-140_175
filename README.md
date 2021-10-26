@@ -28,3 +28,7 @@ Semua gambar telah dikumpulkan dari "Google" dan telah diperiksa. Ada beberapa d
 
 ## TOOLS : 
 - Google Colab
+
+## AUTOR
+- Annisaa Ul Mubaarokah 
+- Riska Septiana Putri
