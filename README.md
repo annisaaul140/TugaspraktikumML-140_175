@@ -26,5 +26,9 @@ Dataset ini berisi sekitar 28.000 gambar hewan berkualitas sedang. Jumlah gambar
 Semua gambar telah dikumpulkan dari "Google" dan telah diperiksa. Ada beberapa data yang salah 
 [kaggle] : https://www.kaggle.com/alessiocorrado99/animals10
 
-## TOOLS : 
+## Tools : 
 - Google Colab
+
+## Autor
+- Annisaa Ul Mubaarokah
+- Riska Septiana Putri
